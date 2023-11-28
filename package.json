@@ -1,0 +1,19 @@
+{
+  "name": "nodefiles",
+  "version": "20.9.0",
+  "description": "Simple Web App",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ScreamingInTheVoid/Intro-to-Node.git"
+  },
+  "author": "CClark",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ScreamingInTheVoid/Intro-to-Node/issues"
+  },
+  "homepage": "https://github.com/ScreamingInTheVoid/Intro-to-Node#readme"
+}
